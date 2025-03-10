@@ -69,7 +69,7 @@ Make sure you have the following installed:
    The chatbot should now be running on `http://127.0.0.1:5000/`.
 
 
-** Deployment**
+ Deployment
 If you want to deploy the chatbot so others (e.g., recruiters) can test it, consider using:
 - **Render** (free Flask hosting)
 - **Railway.app**
@@ -88,7 +88,7 @@ If you want to deploy the chatbot so others (e.g., recruiters) can test it, cons
 - Had issues where FAISS wasn’t retrieving the correct text.
 - Resolved by checking the text chunking strategy and ensuring the embeddings were consistent.
 
-** Future Improvements**
+ Future Improvements
 - Deploying to a cloud service for easy access
 - Adding a UI with Streamlit for a better experience
 - Improving chatbot responses with better prompt engineering
