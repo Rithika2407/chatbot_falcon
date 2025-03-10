@@ -1,0 +1,45 @@
+{
+    "Technical_Courses": [
+      {"Course_Name": "Learn Scratch Programming", "Price_per_Session": 30, "Lessons": 16},
+      {"Course_Name": "Learn Cloud Computing Basics - AWS", "Price_per_Session": 30, "Lessons": 20},
+      {"Course_Name": "Learn Mobile Development", "Price_per_Session": 30, "Lessons": 24},
+      {"Course_Name": "Learn Core Java Programming Online", "Price_per_Session": 30, "Lessons": 41},
+      {"Course_Name": "Learn Robotics", "Price_per_Session": 30, "Lessons": 25},
+      {"Course_Name": "Learn JavaScript", "Price_per_Session": 30, "Lessons": 18},
+      {"Course_Name": "Learn Node.js", "Price_per_Session": 30, "Lessons": 18},
+      {"Course_Name": "Learn Cloud Computing Advanced - AWS", "Price_per_Session": 35, "Lessons": 18},
+      {"Course_Name": "Python Programming - Beginner", "Price_per_Session": 30, "Lessons": 16},
+      {"Course_Name": "Python Programming - Intermediate", "Price_per_Session": 32, "Lessons": 16},
+      {"Course_Name": "Python Programming - Advanced", "Price_per_Session": 35, "Lessons": 30},
+      {"Course_Name": "Web Development from Scratch", "Price_per_Session": 30, "Lessons": 6},
+      {"Course_Name": "Web Development Pro: Intermediate Level", "Price_per_Session": 32, "Lessons": 8},
+      {"Course_Name": "Java & Programming", "Price_per_Session": 30, "Lessons": 8}
+    ],
+    "Game_Development_and_Robotics": [
+      {"Course_Name": "Roblox Programming for Beginners", "Price_per_Session": 30, "Lessons": 15},
+      {"Course_Name": "Advanced Roblox Scripting Workshop", "Price_per_Session": 35, "Lessons": 14},
+      {"Course_Name": "Build Your Own Theme Park in Roblox", "Price_per_Session": 30, "Lessons": 8},
+      {"Course_Name": "Build Your Own Roblox Battle Arena", "Price_per_Session": 30, "Lessons": 8},
+      {"Course_Name": "Create Your Own Roblox Obstacle Course", "Price_per_Session": 30, "Lessons": 8},
+      {"Course_Name": "Robotics Adventure Awaits", "Price_per_Session": 30, "Lessons": 16},
+      {"Course_Name": "Create-A-Bot: Robotics Exploration", "Price_per_Session": 30, "Lessons": 5},
+      {"Course_Name": "Minecraft Java Programming for Beginners", "Price_per_Session": 30, "Lessons": 7},
+      {"Course_Name": "Java Minecraft Creative or Survival Mode", "Price_per_Session": 30, "Lessons": 7}
+    ],
+    "AI_and_ML": [
+      {"Course_Name": "Artificial Intelligence Adventures: Building AI Chatbot (For Kids)", "Price_per_Session": 30, "Lessons": 10},
+      {"Course_Name": "Artificial Intelligence Essentials: Summer Bootcamp", "Price_per_Session": 30, "Lessons": 5},
+      {"Course_Name": "Time Mastery Camp: AI for Jobs, Business, Careers", "Price_per_Session": 30, "Lessons": 11},
+      {"Course_Name": "AI Camp for Entrepreneurs", "Price_per_Session": 30, "Lessons": 7},
+      {"Course_Name": "Chatbot Creators: Design a ChatGPT-like AI", "Price_per_Session": 30, "Lessons": 7},
+      {"Course_Name": "ChatGPT Boot Camp: Basics & Best Uses", "Price_per_Session": 30, "Lessons": 5},
+      {"Course_Name": "AI in Stock Market Success", "Price_per_Session": 30, "Lessons": 10},
+      {"Course_Name": "AI Disruption: Top Entrepreneurs Using AI", "Price_per_Session": 30, "Lessons": 7},
+      {"Course_Name": "AI Writer's Masterclass", "Price_per_Session": 30, "Lessons": 10},
+      {"Course_Name": "AI Pro Camp: Career Growth Catalyst", "Price_per_Session": 30, "Lessons": 20},
+      {"Course_Name": "AI Camp for Jobs & Business: Build Your Own ChatGPT", "Price_per_Session": 30, "Lessons": 10},
+      {"Course_Name": "Machine Learning: 7-Day Project-Based Summer Camp", "Price_per_Session": 30, "Lessons": 7},
+      {"Course_Name": "From Beginner to AI Pro", "Price_per_Session": 30, "Lessons": 20}
+    ]
+  }
+  
