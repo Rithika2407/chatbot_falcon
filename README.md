@@ -70,7 +70,7 @@ Make sure you have the following installed:
 
 
  Deployment
-If you want to deploy the chatbot so others (e.g., recruiters) can test it, consider using:
+If you want to deploy the chatbot so others  can test it, consider using:
 - **Render** (free Flask hosting)
 - **Railway.app**
 - **Hugging Face Spaces**
